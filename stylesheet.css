@@ -1,0 +1,61 @@
+.sub-title > h3{
+    margin: 50px 0 0 200px;
+    font-family: Space Mono;
+    font-size: 40px;
+}
+
+
+html, body{
+    width: 100%;
+    height: 100vh;
+}
+
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 50px 0 0 500px;
+}
+
+img {
+    width: 80%;
+}
+
+h1 {
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+}
+
+p {
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+}
+
+.button {
+    display: inline-block;
+    padding: 2px 8px 2px 8px;
+    background: #444;
+    color: #fff;
+  
+    border-radius: 5px;
+}
+
+.button:hover {
+    background: rgb(39, 36, 36);  
+}
+
+.footer {
+    position: absolute; 
+    bottom: 0;
+    text-align: center; 
+    padding: 0px 400px 0 0;
+    width: 100%;
+    }
+
