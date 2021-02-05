@@ -39,6 +39,7 @@
 
 Took this on as I wanted to see where I am at the moment with my progress. Found my weaknesses, I think I struggled more than expected. Need to work a lot of positioning of elements, looked fine offline once deployed it was massively shifted over to the right. I had to go back and find my mistakes and redeploy. You live and learn. 
 
+Feedback and advice would be greatly appreciated. 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
